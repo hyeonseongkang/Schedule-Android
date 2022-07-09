@@ -27,6 +27,12 @@
             android:name="com.naver.maps.map.CLIENT_ID"
             android:value="CLIENT_ID" />
 
+        <activity android:name=".ZoomSchedule"
+            android:exported="true"/>
+
+        <activity android:name=".DeleteSubjectActivity"
+            android:exported="true"/>
+
         <activity android:name=".MainActivity"
             android:exported="true"/>
 
