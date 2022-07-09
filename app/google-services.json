@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662077724264",
+    "project_id": "schedule-android-4a575",
+    "storage_bucket": "schedule-android-4a575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662077724264:android:986466aeefd6a613624ddd",
+        "android_client_info": {
+          "package_name": "com.mirror.schedule_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662077724264-irmf0k2922j316hk8mddi209eqkkq5sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEKmcdVR1nW6eyFBDJMyuEO6CAs5ob10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662077724264-irmf0k2922j316hk8mddi209eqkkq5sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
