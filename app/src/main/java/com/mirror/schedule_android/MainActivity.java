@@ -10,6 +10,9 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.mirror.schedule_android.chat.ChatFragment;
+import com.mirror.schedule_android.map.MapFragment;
+import com.mirror.schedule_android.schedule.ScheduleFragment;
 
 public class MainActivity extends AppCompatActivity {
 

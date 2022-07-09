@@ -1,4 +1,4 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.map;
 
 
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import com.mirror.schedule_android.R;
 
 public class MapFragment extends Fragment {
 

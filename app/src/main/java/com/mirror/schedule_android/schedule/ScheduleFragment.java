@@ -1,4 +1,4 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.schedule;
 
 
 import android.app.Activity;
@@ -31,6 +31,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.mirror.schedule_android.R;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -45,7 +46,7 @@ public class ScheduleFragment extends Fragment {
     List<Subject> allSubjects = new ArrayList<>();
 
     List<Subject> subjects = new ArrayList<>();
-    static List<MySubjects> mySubjects = new ArrayList<>();
+    public static List<MySubjects> mySubjects = new ArrayList<>();
 
     private RecyclerView recyclerView;
     private RecyclerView.Adapter mAdapter;

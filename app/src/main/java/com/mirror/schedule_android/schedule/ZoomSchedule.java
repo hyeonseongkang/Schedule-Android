@@ -1,4 +1,4 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.schedule;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -9,6 +9,8 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.mirror.schedule_android.R;
 
 import java.util.List;
 

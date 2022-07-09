@@ -1,6 +1,6 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.schedule;
 
-class MySubjects {
+public class MySubjects {
     private String key;
     private String title;
     private String[] schedule;

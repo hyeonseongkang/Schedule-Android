@@ -27,10 +27,13 @@
             android:name="com.naver.maps.map.CLIENT_ID"
             android:value="CLIENT_ID" />
 
-        <activity android:name=".ZoomSchedule"
+        <activity android:name=".chat.ChatScreen"
             android:exported="true"/>
 
-        <activity android:name=".DeleteSubjectActivity"
+        <activity android:name=".schedule.ZoomSchedule"
+            android:exported="true"/>
+
+        <activity android:name=".schedule.DeleteSubjectActivity"
             android:exported="true"/>
 
         <activity android:name=".MainActivity"

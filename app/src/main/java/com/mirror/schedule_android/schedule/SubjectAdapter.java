@@ -1,4 +1,4 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.schedule;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,6 +7,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.mirror.schedule_android.R;
 
 import java.util.List;
 

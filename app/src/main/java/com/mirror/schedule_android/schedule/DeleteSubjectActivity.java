@@ -1,4 +1,4 @@
-package com.mirror.schedule_android;
+package com.mirror.schedule_android.schedule;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -10,6 +10,8 @@ import android.widget.ImageView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.mirror.schedule_android.R;
 
 public class DeleteSubjectActivity extends AppCompatActivity {
 
